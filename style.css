@@ -1,0 +1,17 @@
+/* # Back to Top Button -------------- */
+.topButton{
+	background-color: #8dc746;
+	bottom: 2em;
+	color: #fff;
+	display: none;
+	opacity:0.6;
+	padding: 1.5em;
+	position: fixed;
+	right: 1.5em;
+	text-decoration: none;
+}
+.topButton:hover{
+	opacity:1;
+	color: #fff;
+	transition:1s;
+}
